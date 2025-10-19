@@ -39,7 +39,7 @@ The project helps visualize **quarterly revenues, critic ratings, budgets, and R
 ---
 
 ## 1) Dashboard Overview (Preview)
-![Dashboard Screenshot](https://raw.githubusercontent.com/lubhanigola/Watch_Now-Analysis-Dashboard/main/Project%20Screenshot/Watch%20Now%20Dashboard.png)
+![Dashboard Screenshot](https://github.com/lubhanigola/Excel-Projects/raw/main/Watch%20Now/Watch%20Now%20Dashboard.png)
 
 ---
 
@@ -61,6 +61,14 @@ The project helps visualize **quarterly revenues, critic ratings, budgets, and R
   - Donut chart for *Top 5 Genres by IMDb Rating*
 
 ---
+## Data Source 🔗
+**Source:** [Movie Dataset for Analytics & Visualization (Kaggle)](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)
+
+The dataset consists of **999,999 records** capturing comprehensive details about movies released across different countries and years.  
+It includes **financial, rating, and production-related attributes** that together provide a 360° view of movie performance worldwide.
+
+---
+
 ## Key Features & Visuals ✨
 
 📅 **Quarterly Global Collection (Column Chart):**
@@ -102,11 +110,3 @@ The project helps visualize **quarterly revenues, critic ratings, budgets, and R
 - Developed a sharper eye for **color consistency and layout balance** in Excel dashboards.
 
 ---
-
-## 📂 Explore the Project
-🔗 **[Download Excel Dashboard](https://drive.google.com/drive/folders/10SxyeZv0Z1VXf1tFwHx7nR9FtLJmwWnT?usp=drive_link)**
-
----
-
-## 🖼️ Dashboard Preview
-![Dashboard Screenshot](https://github.com/lubhanigola/Excel-Projects/raw/main/Watch%20Now/Watch%20Now%20Dashboard.png)

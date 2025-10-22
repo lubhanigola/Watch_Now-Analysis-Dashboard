@@ -99,7 +99,14 @@ It includes **financial, rating, and production-related attributes** that togeth
 - ⭐ Average IMDb rating across top 5 genres: **~6.5 to 6.6**, showing stable audience satisfaction.  
 - 📈 ROI trends were steady but showed dips in certain decades — likely due to higher budget risks.  
 - 💬 Critic ratings fluctuated decade-wise, reflecting changes in cinematic preferences.
+---
+## 🎯 Use Cases of Movie Analytics Dashboard
 
+- **Film Production Houses & Studios** – Identify high-ROI genres and optimize release strategies.  
+- **Marketing & Distribution Teams** – Plan targeted campaigns based on audience and critic trends.  
+- **Analysts & Researchers** – Study budget, ROI, and ratings correlations for predictive insights.  
+- **Film Schools & Students** – Learn industry trends and genre popularity patterns.  
+- **Policy Makers & Cultural Organizations** – Understand global movie consumption trends for decision-making.
 ---
 
 ## 🧠 Learnings & Takeaways

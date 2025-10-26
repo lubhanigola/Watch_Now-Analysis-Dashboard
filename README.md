@@ -39,7 +39,7 @@ The project helps visualize **quarterly revenues, critic ratings, budgets, and R
 ---
 
 ## Dashboard Overview (Preview)
-![Dashboard Screenshot](https://github.com/lubhanigola/Excel-Projects/raw/main/Watch%20Now/Watch%20Now%20Dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/lubhanigola/Watch_Now-Analysis-Dashboard/main/Project%20Screenshot/Watch%20Now%20Dashboard.png)
 
 ---
 

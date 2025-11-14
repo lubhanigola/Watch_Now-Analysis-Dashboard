@@ -1,4 +1,4 @@
-# 🎬 **Watch Now – Excel Movie Analytics Dashboard**
+# 🎬 **Watch Now – Excel Movie Analytics**
 
 ## 💭 Why I Chose This Project
 With the explosion of OTT platforms like Netflix, Prime Video, and Disney+, I became curious about **how the movie industry performs globally** across different genres and years.  
